@@ -1,0 +1,125 @@
+{
+	"info": {
+		"_postman_id": "c3081849-ed48-4fc9-aba3-2b07fe4fb8ac",
+		"name": "AspNetCoreIdentity",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "LoginWithException",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"Email\":\"test@test.com\",\n\t\"Password\":\"qazwsX123@\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44397/api/user/login",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44397",
+					"path": [
+						"api",
+						"user",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "LoginSucceeded",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"email\":\"testuserfirst@test.com\",\n\t\"password\":\"qazwsX123@\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44397/api/user/login",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44397",
+					"path": [
+						"api",
+						"user",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetWithTokenSucceeded",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"connection": true,
+					"accept-encoding": true,
+					"accept": true,
+					"user-agent": true,
+					"host": true
+				}
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiJUZXN0VXNlckZpcnN0IiwibmJmIjoxNTg4NDA0Njk1LCJleHAiOjE1ODkwMDk0OTUsImlhdCI6MTU4ODQwNDY5NX0.uK9tG-mRm0WVjuOuHYBkR17m0UPMZQpY9zYCLv5fLzaFwLNzpJTeADOhK_JcnPUc0B-FP2qz4ppdqsVpHsSQ4w",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:44397/api/test",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44397",
+					"path": [
+						"api",
+						"test"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetWithoutTokenReturnException",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44397/api/test",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44397",
+					"path": [
+						"api",
+						"test"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

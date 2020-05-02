@@ -1,0 +1,15 @@
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\bin\Debug\netcoreapp3.1\EFData.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\bin\Debug\netcoreapp3.1\EFData.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

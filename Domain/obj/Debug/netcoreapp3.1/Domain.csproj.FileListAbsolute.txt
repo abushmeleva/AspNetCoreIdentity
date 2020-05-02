@@ -1,0 +1,7 @@
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

@@ -1,0 +1,13 @@
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\bin\Debug\netcoreapp3.1\EFData.deps.json
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\bin\Debug\netcoreapp3.1\EFData.runtimeconfig.json
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\bin\Debug\netcoreapp3.1\EFData.runtimeconfig.dev.json
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\bin\Debug\netcoreapp3.1\EFData.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\bin\Debug\netcoreapp3.1\EFData.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\bin\Debug\netcoreapp3.1\Domain.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\obj\Debug\netcoreapp3.1\EFData.csprojAssemblyReference.cache
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\obj\Debug\netcoreapp3.1\EFData.AssemblyInfoInputs.cache
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\obj\Debug\netcoreapp3.1\EFData.AssemblyInfo.cs
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\obj\Debug\netcoreapp3.1\EFData.csproj.CopyComplete
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\obj\Debug\netcoreapp3.1\EFData.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\EFData\obj\Debug\netcoreapp3.1\EFData.pdb

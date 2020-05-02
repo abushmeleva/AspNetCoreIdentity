@@ -1,0 +1,13 @@
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\bin\Debug\netcoreapp3.1\EFData.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\bin\Debug\netcoreapp3.1\EFData.pdb
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\WebSites\Fuse8\Статьи\AspNetCoreIdentity\Application\obj\Debug\netcoreapp3.1\Application.pdb
